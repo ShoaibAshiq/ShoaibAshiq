@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://pk.linkedin.com/in/muhammad-shoaib-ashiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/muhammad-shoaib-ashiq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-shoaib-ashiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/muhammad-shoaib-ashiq" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shoaib.ashiq62/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shoaib.ashiq62/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shoaibashiq062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shoaibashiq062" height="30" width="40" /></a>
 </p>
